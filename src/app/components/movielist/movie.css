@@ -1,0 +1,51 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+h1{
+  margin-left: 20px;
+}
+.header {
+  padding-bottom: 30px;
+  padding-top: 30px;
+  margin-left: none;
+}
+
+.search {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Title {
+  max-width: 200px;
+}
+.heading {
+  color: white;
+}
+
+.search {
+  background: rgb(247, 246, 246);
+  width: 200px;
+  border-radius: 10px;
+  margin-left: 900px;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+
+input {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  height: 70%;
+  font-size: small;
+  width: 70%;
+  margin-left: 5px;
+}
+
+.if :hover {
+  transform: scale(1.1);
+}
+.movie{
+  margin-left: 20px;
+}
